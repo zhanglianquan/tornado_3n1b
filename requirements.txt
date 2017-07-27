@@ -1,0 +1,9 @@
+tornado
+jinja2
+markdown
+pygments
+python-memcached
+wtforms
+PIL
+torndb
+pymysql
